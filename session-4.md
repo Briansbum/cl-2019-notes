@@ -20,7 +20,7 @@ Software performance on FPGA's became good
 The customer wants new features infrastructure
 Using normal hardware lowers OPEX and allows competitive pricing
 
-#---------------
+---
 
 Moving from specialised hardware/software to containers
 initially delivered "fat" containers (5-600MB*number of containers required)
@@ -55,3 +55,7 @@ Key Lessons MediaKind Learnt:
 2. Optimise delivering the solution, not the containers
 3. Keep up with the technology, it moves pretty quickly. Time was there were 10's of deployment methods for containers. Now it's pretty much just k8s or maybe openshit.
     3a.   embedded software practices are very applicable to containers
+
+####Questions:
+
+They've had customers who are more worried about knowing what risk they're exposed to over getting the risk removed right this second.
