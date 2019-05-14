@@ -3,6 +3,9 @@ Team fun master - to make sure people are having fun on sub-teams of an org or a
 Fun certificates - for being more fun!
 Funtinum
 
+How to have Fun:
+![img](pics/fun-steps.jpg)
+
 ####Steps to having fun and potentially increasing performance by 31%:
 
 0.5.  Stop prohibiting fun
@@ -33,6 +36,8 @@ Funtinum
     *   This example was given:
     A team was promised 1 free lunch for increasing test coverage by a certain amount and 10 years of tech debt was resolved in a month (I think, could have been another amount of time)
 
+
+![img](pics/fun-vs-not-fun.jpg)
 
 3.  Gamification is such a good reward it will make people rush or do wrong things intentionally to get the reward
 
