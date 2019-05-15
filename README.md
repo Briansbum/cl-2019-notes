@@ -2,6 +2,8 @@
 ##### Sessions I took halfway decent notes for
 Some are more edited than others, a lot are spellchecked stream of consciousness type deals because I was listening.
 
+###Day 1
+
 **Session 1:**
 Why container security isn't about security of containers
 
@@ -13,3 +15,8 @@ Journey to smaller containers
 
 **Session 5:**
 The Importance of Fun in the Workplace
+
+###Day 2
+
+**Session 1:**
+Practical ways to increase operability in continuous delivery
