@@ -1,12 +1,15 @@
 Chief Fun Officer (Suggested was a back alley knife fight to figure out who gets the CFO title, the Chief Financial Officer or the Chief Fun Officer)
+
 Team fun master - to make sure people are having fun on sub-teams of an org or a department
+
 Fun certificates - for being more fun!
+
 Funtinum
 
 How to have Fun:
 ![img](pics/fun-steps.jpg)
 
-####Steps to having fun and potentially increasing performance by 31%:
+###Steps to having fun and potentially increasing performance by 31%:
 
 0.5.  Stop prohibiting fun
 1.  Find the unfun things and get rid of them
