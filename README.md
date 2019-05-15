@@ -23,3 +23,6 @@ Practical ways to increase operability in continuous delivery
 
 **Session 2:**
 Serverless Monitoring
+
+**Session 3:**
+SRE for Humans
