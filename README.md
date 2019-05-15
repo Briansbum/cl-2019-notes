@@ -20,3 +20,6 @@ The Importance of Fun in the Workplace
 
 **Session 1:**
 Practical ways to increase operability in continuous delivery
+
+**Session 2:**
+Serverless Monitoring
