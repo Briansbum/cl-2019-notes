@@ -1,7 +1,7 @@
-###Marcia Villalba
-###Rovio
+### Marcia Villalba
+### Rovio
 
-#####Basics of Monitoring Serverless
+##### Basics of Monitoring Serverless
 
 Serverless is a spectrum from nocode to containers on ec2
 
@@ -30,11 +30,11 @@ Metrics from every part of the serverless application is important, functions ar
 
 Base metrics/alarms on use cases, if your application doesn't read/write disk at all then why are you alarming on disk usage? (not so much serverless here)
 
-#####How to make a serverless applications easier to Monitor
+##### How to make a serverless applications easier to Monitor
 
 pick easily monitorable services, if they're not monitorable they'll be a nightmare to operate
 
-#####Tooling for Serverless Monitoring
+##### Tooling for Serverless Monitoring
 
 Feature wishlist:
 *   Real time

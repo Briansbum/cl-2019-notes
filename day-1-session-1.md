@@ -2,10 +2,10 @@
 **Red Hat**
 **Chief Security Architect**
 
-#####Intro
+##### Intro
 got intro'd
 
-#####How containers are like vms
+##### How containers are like vms
 self-contained/images/scheduled workloads/host based security
 containers are more lightweight but have less relation to hardware
 vm's have security provided in part by hardware
@@ -13,7 +13,7 @@ vm's have security provided in part by hardware
 so are vm's more secure than containers?
 it's the wrong question apprently
 
-#####What is a container?
+##### What is a container?
 it's a linux process with isolation:
 *   namespaces
 *   cgroups for resource management
@@ -31,7 +31,7 @@ containers are launched from images:
 this is what's seen by a developer
 bunch of cowboys
 
-#####What's Security?
+##### What's Security?
 good security is built around the container lifecycle
 
 How containers aren't like vms

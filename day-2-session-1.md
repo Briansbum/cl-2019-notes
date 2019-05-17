@@ -17,7 +17,7 @@ users don't always care about these things
 operability is long term customer experience and service viability and not short term feature delivery
 addressing these things early helps us to make the spend associated with the service more sustainable and lower the load on individuals
 
-####continuous delivery
+#### continuous delivery
 
 **books:**
 continuous delivery - jez humble & dave farley 2010
@@ -29,7 +29,7 @@ Needs:
 *   team ownership of software and services
 *   software/infrastructure needs to be aligned to make CD as easy as possible (microservices helps with this)
 
-####case study
+#### case study
 
 GOV.UK
 700+ people across 70+ teams and 7 locations
