@@ -1,4 +1,4 @@
-#####Kris Buytaert
+##### Kris Buytaert
 @krisbuytaert
 
 What has ops (automation) got to do with Dev?
@@ -16,7 +16,7 @@ NoOps? YOLO Ops?
 
 Kris doesn't like hype
 
-#####History:
+##### History:
 
 *   Europe:
     *   Starting from  Ops
@@ -28,8 +28,8 @@ Kris doesn't like hype
     *   Faster platforms
     *   Faster change
 
-#####Transistion cases:
-######Case 1, Chaotic Ops:
+##### Transistion cases:
+###### Case 1, Chaotic Ops:
 Initial State
 
     Complete chaos
@@ -63,7 +63,7 @@ Conclusion
     Collaboration ++
     Velocity ++
 
-######Case 2, CI by Devs:
+###### Case 2, CI by Devs:
 Initial State
 
     Some devs have tests that do nothing/little
@@ -93,7 +93,7 @@ Conclusion
    Starting with dev made rollout slower
    Ops should not be spending all of their time firefighting
 
-######Case 3, Countries are fighting:
+###### Case 3, Countries are fighting:
 
 Initial State
 
@@ -106,7 +106,7 @@ Conclusion
 
     You can fake automation until someone who has done automation shows up.
 
-######Case 4, Ops is not involved at all:
+###### Case 4, Ops is not involved at all:
 
 Initial State
 
@@ -128,11 +128,11 @@ Conclusion
 
     Involve skilled ops people
 
-#####Why ops first?
+##### Why ops first?
 You can't support/understand what you're making
 Unblock delivery/provisioning by getting ops to make what you need before it's needed
 
-#####On prem vs cloud
+##### On prem vs cloud
 So many things you need to make (TF, VPC, Pipelines, Monitoring, Security)
 In both cases ops has a major role
 
@@ -142,10 +142,10 @@ Micheal Ducy - containers in dev vs prod
 
 Devoops -> forgetting to do the things ops has to do until you're done writing the thing
 
-#####Waterfall & ITIL vs Agile
+##### Waterfall & ITIL vs Agile
 Lots of older ops people are still not doing Agile and need help to adapt
 
-#####A CI Ecosystem
+##### A CI Ecosystem
 Things ops people might not know:
 
     vcs
@@ -155,9 +155,9 @@ Things ops people might not know:
     code coverage tooling
     testing tools
 
-#CI is a security requirement
+# CI is a security requirement
 
-#Get the mean time to repair as close to 0 as possible
+# Get the mean time to repair as close to 0 as possible
 
 its not about the tools
 its about change
